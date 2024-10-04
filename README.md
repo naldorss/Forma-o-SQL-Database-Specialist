@@ -1,1 +1,0 @@
-# Forma-o-SQL-Database-Specialist
